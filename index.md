@@ -4,7 +4,21 @@ You can use the [editor on GitHub](https://github.com/ikkeph/ikkeph/edit/gh-page
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Henrique
+Vamos escrever sobre o ensino.
+
+O meio acadêmico pode ser intelectual, mas o meio intelectual não precisa ser acadêmico.
+
+Pergunto ao leitor se já parou para conversar com um ensaio dos "clássicos". É uma leitura viva. Fluente. Gostosa. Não é trabalhosa. 
+
+A leitura acadêmica é trabalhosa, complicada, redundante, nebulosa.
+
+Imagine que estamos procurando líquidos. Eu posso conseguir líquidos espremendo uma laranja gorda, lustrosa, firme, ou eu posso tentar espremer um limão seco, opaco, rugoso. 
+
+Defendo que a laranja é a conversa com os clássicos, o limão, a conversa com os academicistas. De forma mais ampla, é praticamente uma questão de produtividade e nitidez.
+
+Os academicisitas precisam criar vários termos; fazer inúmeras e vazias citações; inundar de palavras inofensivas. Tudo porque se mostram incapazes de dominar o real. O conhecimento. 
+
+Academicista não tem carisma.
 
 ### Markdown
 
